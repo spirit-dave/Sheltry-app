@@ -1,0 +1,7 @@
+lib/
+├── main.dart           // Entry point
+├── screens/            // Home, Login, ApartmentList, etc.
+├── widgets/            // Reusable components (e.g. buttons, cards)
+├── models/             // Data models (e.g. User, Apartment)
+├── providers/          // State management (e.g. Provider, Riverpod)
+└── services/           // API calls to backend
