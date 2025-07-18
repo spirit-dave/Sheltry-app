@@ -1,5 +1,3 @@
-# Sheltry-app
-A mobile app platform for apartment listing and shelter finding.
 # Sheltry - Frontend (Flutter)
 
 This is the Flutter frontend for the **Sheltry** app — a platform for finding and offering temporary shelter with ease.
