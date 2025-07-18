@@ -4,7 +4,7 @@ This is the Flutter frontend for the **Sheltry** app — a platform for finding 
 
 ## 👨‍🎨 UI/UX Design Access
 
-Figma Link: [Click here to open in Figma](https://drive.google.com/drive/folders/1GgfZIukFd5lw_juu4eqsYlnxaso0VGav)
+Drive Link: [Click here to open in Drive](https://drive.google.com/drive/folders/1GgfZIukFd5lw_juu4eqsYlnxaso0VGav)
 
 ### 🖼️ Screens Available:
 - Splash Screen
